@@ -1,11 +1,12 @@
 # COVID-19-Brazil
-
-<img src="https://github.com/GustavoDuregger/COVID-19-Brazil/blob/master/imagens/imagemDesktop.png">
-<img src="https://github.com/GustavoDuregger/COVID-19-Brazil/blob/master/imagens/Screenshot_2020-03-12-16-27-41-735_com.android.chrome.jpg" width="200px">
-
+<p align="center">
+  <img src="https://github.com/GustavoDuregger/COVID-19-Brazil/blob/master/imagens/imagemDesktop.png" width="600px">
+  <img src="https://github.com/GustavoDuregger/COVID-19-Brazil/blob/master/imagens/Screenshot_2020-03-12-16-27-41-735_com.android.chrome.jpg" width="130px">
+<p align="center">
+  
 ## :sparkles: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with these technologies:
 
 - [PowerBi](https://powerbi.microsoft.com/)
 
@@ -16,4 +17,4 @@ Bubble map related to confirmed cases of the new coronavirus (COVID-19) by Brazi
 
 ---
 
-Feito com ♥ por [Gustavo Duregger](https://gduregger.com)
+Developed with ♥ by [Gustavo Duregger](https://gduregger.com)
