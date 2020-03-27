@@ -1,6 +1,6 @@
 # COVID-19-Brazil
 <p align="center">
-  <img src="https://github.com/GustavoDuregger/COVID-19-Brazil/blob/master/imagens/imagemDesktop.png" width="600px">
+  <img src="https://github.com/GustavoDuregger/COVID-19-Brazil/blob/master/imagens/imagemDesktop.gif" width="600px">
   <img src="https://github.com/GustavoDuregger/COVID-19-Brazil/blob/master/imagens/Screenshot_2020-03-12-16-27-41-735_com.android.chrome.jpg" width="130px">
 <p align="center">
   
